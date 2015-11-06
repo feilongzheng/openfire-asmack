@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/add_friend"
+        android:showAsAction="never"
+        android:title="添加好友"/>
+    <item
+        android:id="@+id/chat_services"
+        android:showAsAction="never"
+        android:title="群聊"/>
+
+    <item
+        android:id="@+id/menu_item_logout"
+        android:showAsAction="never"
+        android:title="注销"/>
+</menu>

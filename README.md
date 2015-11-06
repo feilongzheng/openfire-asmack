@@ -1,1 +1,2 @@
 # openfire-asmack
+openfire必须windows下安装32位jdk，64位的windows也是可以安装32位jdk的
